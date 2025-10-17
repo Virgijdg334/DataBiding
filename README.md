@@ -119,22 +119,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
-🧠 Estructura del proyecto
-bash
-Copiar código
-PesoEnLaLuna/
- ├── app/
- │   ├── src/
- │   │   ├── main/
- │   │   │   ├── java/... (lógica de la app en Kotlin)
- │   │   │   ├── res/
- │   │   │   │   ├── layout/activity_main.xml
- │   │   │   │   ├── values/strings.xml
- │   │   │   │   ├── values/themes.xml
- │   │   │   └── AndroidManifest.xml
- │   ├── build.gradle.kts
- │   └── settings.gradle.kts
- └── README.md
 
 
 📚 Aprendizaje clave
