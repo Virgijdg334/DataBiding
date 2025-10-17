@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CosteDeViaje</string>
+    <string name="img_desc_road">Imagen de cabecera</string>
+
+    <string name="hint_distance_km">Distancia (km)</string>
+    <string name="hint_consumption_l_100">Consumo (L/100km)</string>
+    <string name="hint_price_per_liter">Precio combustible (€/L)</string>
+    <string name="btn_calculate">Calcular</string>
+
+    <string name="result_placeholder">Introduce los datos y pulsa Calcular</string>
+    <string name="result_text">Coste estimado: %1$s</string>
+
+    <string name="error_empty">Este campo es obligatorio</string>
+    <string name="error_non_positive">Debe ser mayor que 0</string>
+    <string name="toast_done">Cálculo realizado</string>
+</resources>
