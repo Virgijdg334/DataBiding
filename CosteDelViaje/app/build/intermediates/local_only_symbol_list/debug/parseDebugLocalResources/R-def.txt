@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnCalculate
+id etConsumption
+id etDistance
+id etPrice
+id headerImage
+id tvResult
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string btn_calculate
+string error_empty
+string error_non_positive
+string hint_consumption_l_100
+string hint_distance_km
+string hint_price_per_liter
+string img_desc_road
+string result_placeholder
+string result_text
+string toast_done
+style Base.Theme.CosteDeViaje
+style Theme.CosteDeViaje
+xml backup_rules
+xml data_extraction_rules
