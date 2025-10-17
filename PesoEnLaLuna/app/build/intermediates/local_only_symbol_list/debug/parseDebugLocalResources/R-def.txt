@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_moon
+id button_calculate
+id edit_text_weight
+id image_moon
+id text_view_result
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string calculate_button
+string moon_image_description
+string result_placeholder
+string result_text
+string weight_hint
+style Base.Theme.PesoEnLaLuna
+style Theme.PesoEnLaLuna
+xml backup_rules
+xml data_extraction_rules
