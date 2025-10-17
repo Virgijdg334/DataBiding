@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">PesoEnLaLuna</string>
+    <string name="calculate_button">Calcular Peso Lunar</string>
+    <string name="moon_image_description">Imagen de la luna</string>
+    <string name="result_placeholder">Tu peso en la Luna aparecerá aquí</string>
+    <string name="result_text">Tu peso en la Luna es: %1$.2f kg</string>
+    <string name="weight_hint">Introduce tu peso en la Tierra (kg)</string>
+    <style name="Base.Theme.PesoEnLaLuna" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.PesoEnLaLuna" parent="Base.Theme.PesoEnLaLuna"/>
+</resources>
